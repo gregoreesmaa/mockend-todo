@@ -1,0 +1,6 @@
+{
+  "Chore": {
+    "done": "boolean",
+    "text": "string"
+  }
+}
